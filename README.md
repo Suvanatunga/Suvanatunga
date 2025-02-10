@@ -2,7 +2,7 @@
 
 Hi there! 👋
 
-I’m Suvana Tunga, an aspiring **front-end developer** with a passion for creating dynamic and responsive websites. Currently focused on learning new technologies like **React** and exploring frameworks to improve my development skills. I aim to contribute to impactful projects and grow in the software development field.
+I’m Suvana Tunga, an aspiring **software developer** with a passion for creating dynamic and responsive websites. Currently focused on learning new technologies like **React** and exploring frameworks to improve my development skills. I aim to contribute to impactful projects and grow in the software development field.
 
 ## 🔧 Technologies & Tools
 
